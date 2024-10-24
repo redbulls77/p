@@ -1,2 +1,1 @@
-# p
-Palvelinten hallinta -kurssi
+Palvelinten hallinta -kurssille läksyalusta :)

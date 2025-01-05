@@ -1,3 +1,1 @@
-Palvelinten hallinta -kurssille läksyalusta :)
-
-https://terokarvinen.com/palvelinten-hallinta/
+Läksyalusta Palvelinten hallinta -kurssille. Lisätietoja osoitteesta https://terokarvinen.com/palvelinten-hallinta/.
